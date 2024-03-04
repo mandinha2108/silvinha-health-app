@@ -10,4 +10,4 @@ Execultar o projeto
     npx expo start --localhost --android
 
 Restaurar um projeto apos clonar:
- npx i 
+ npm i 
